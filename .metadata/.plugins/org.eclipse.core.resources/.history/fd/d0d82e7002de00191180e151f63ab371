@@ -1,0 +1,20 @@
+package PageLibrary;
+
+import TestBase.BaseClass;
+import Utility.Util;
+
+public class DashboardPage extends BaseClass {
+
+	
+	public boolean validateAllUsers(){
+		String usersMenu=pageObjects.getProperty("UsersMenu");
+		String allUsersMenu=pageObjects.getProperty("AllUsersMenu");
+		String lnkUserName=pageObjects.getProperty("lnkUserName");
+		String lnkEmail=pageObjects.getProperty("lnkEmail");
+		
+		Util.clickElement(usersMenu);
+		Thread.sleep(1000);
+		Util.clickElement(allUsersMenu);
+		
+	}
+}

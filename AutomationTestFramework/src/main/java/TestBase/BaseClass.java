@@ -14,6 +14,10 @@ public class BaseClass {
 	protected static Properties configProperties = null;
 	protected static Properties pageObjects = null;
 	protected static WebDriver driver = null;
+	
+	public BaseClass(){
+		
+	}
 
 	public static WebDriver initializeBrowser() throws IOException {
 		configProperties = loadProperties(getProjectDirectory()

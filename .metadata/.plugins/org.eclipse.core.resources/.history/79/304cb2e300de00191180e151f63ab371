@@ -1,0 +1,6 @@
+#Login page
+txtUsername=id:user_login
+txtPassword=id:user_pass
+btnLogin=id:wp-submit
+
+#Dashboard page

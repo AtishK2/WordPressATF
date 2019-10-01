@@ -1,46 +1,58 @@
 package TestCases;
 
 import java.io.IOException;
-import java.util.Properties;
 
-import junit.framework.Assert;
+import org.testng.Assert;
+import org.testng.ITestResult;
+import org.testng.annotations.AfterMethod;
+import org.testng.annotations.BeforeMethod;
+import org.testng.annotations.Test;
 
-import org.junit.Before;
-import org.junit.Test;
-import org.openqa.selenium.WebDriver;
+import com.relevantcodes.extentreports.LogStatus;
 
 import PageLibrary.DashboardPage;
 import PageLibrary.LoginPage;
 import TestBase.BaseClass;
 
 public class TestFramework extends BaseClass {
+
 	
-	private static WebDriver driver;
-	private static Properties configProperties, pageObjects;
 	private LoginPage loginPage;
 	private DashboardPage dashboardPage;
-	
-	public TestFramework(){
-		this.driver = super.driver;
-		this.configProperties = super.configProperties;
-		this.pageObjects = super.pageObjects;
-	}
-	
-	@Before
-	public void setUp() throws IOException{
-		driver=BaseClass.initializeBrowser();
-		System.out.println("Done with before");
-	}
-	
-	@Test
-	public void Login() {
-		System.out.println("Inside Login");
-		loginPage=new LoginPage();
-		String userName=pageObjects.getProperty("txtUsername");
-		String password=pageObjects.getProperty("txtPassword");
-		dashboardPage=loginPage.performLogin(userName, password);
-		Assert.assertTrue(driver.getTitle().contains("Dashboard"));
-		
+
+	public TestFramework() {
 	}
 
+	@BeforeMethod
+	public void setUp() throws IOException {
+		driver = BaseClass.initializeBrowser();
+		loginPage = new LoginPage();
+	}
+
+	@Test
+	public void LoginTest() {
+		dashboardPage = loginPage.performLogin();
+		Assert.assertTrue(driver.getTitle().contains("Cleanboard"),"Test failed since the actual title of window is "+driver.getTitle());
+	}
+
+//	@Test
+	public void ValidateAllUsersTest() throws InterruptedException {
+		dashboardPage = loginPage.performLogin();
+		Assert.assertTrue(dashboardPage.validateAllUsers(),"Email or Username not present on Users page");
+	}
+	
+
+	@AfterMethod
+	public void tearDown(ITestResult result) throws InterruptedException, IOException {
+		Thread.sleep(500);
+		
+		if(result.getStatus()==ITestResult.FAILURE) {
+			String filePath=Utility.Util.captureScreenshotInCaseOfError(result);
+			
+		}
+		
+//		driver.close();
+		loginPage = null;
+		dashboardPage = null;
+	}
 }

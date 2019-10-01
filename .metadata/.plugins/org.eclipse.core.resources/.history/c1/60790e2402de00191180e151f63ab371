@@ -1,0 +1,11 @@
+package PageLibrary;
+
+import TestBase.BaseClass;
+
+public class DashboardPage extends BaseClass {
+
+	
+	public boolean validateAllUsers(){
+		
+	}
+}

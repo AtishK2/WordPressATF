@@ -1,0 +1,964 @@
+[
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "50822aed35363526eadeb83675aa3e7946558548",
+    "jarFileModificationDate": "2019-08-31T15:08:18.221+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cc5e623d1545637f27e9ac74100126ea9c158840",
+    "jarFileModificationDate": "2019-08-31T15:08:18.284+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpmime",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "22b4c53dd9b6761024258de8f9240c3dce6ea368",
+    "jarFileModificationDate": "2019-09-09T19:41:00.001+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\httpcomponents\\httpmime\\4.5.2\\httpmime-4.5.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.guava",
+    "version": {
+      "major": 25,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "jre"
+    },
+    "jarFileFingerprint": "7319c34fa5866a85b6bad445adad69d402323129",
+    "jarFileModificationDate": "2019-09-09T19:37:28.031+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\google\\guava\\guava\\25.0-jre\\guava-25.0-jre.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "72c1403ef99e74a9aead254806adbbca68e731a3",
+    "jarFileModificationDate": "2019-08-31T15:08:24.629+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "selenium-server-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "970059131887e04ede14b433a7a505a793585bce",
+    "jarFileModificationDate": "2019-09-24T19:09:21.011+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-server\\3.141.59\\selenium-server-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ant-1.8.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fc33bf7cd8c5309dd7b81228e8626515ee42efd9",
+    "jarFileModificationDate": "2019-09-10T16:04:11.022+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\ant\\ant\\1.8.2\\ant-1.8.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-opera-driver-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6b11ed01182bfd8bb62ddeae34cf9eadd3cfc7ff",
+    "jarFileModificationDate": "2019-09-24T19:09:20+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-opera-driver\\3.141.59\\selenium-opera-driver-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "896d975d9062946b13eb9001e49dd9dbc3dbd098",
+    "jarFileModificationDate": "2019-08-31T15:08:18.268+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.mongodb.bson",
+    "version": {
+      "major": 3,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d57b1626e7007a93deb12b2b607e85f6822bf060",
+    "jarFileModificationDate": "2019-09-09T19:41:00.073+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\mongodb\\bson\\3.3.0\\bson-3.3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jsr305-1.3.9",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf",
+    "jarFileModificationDate": "2019-09-09T19:37:26.011+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\google\\code\\findbugs\\jsr305\\1.3.9\\jsr305-1.3.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.commons-collections4",
+    "version": {
+      "major": 4,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c262f70f9b3c2351f1d13a9a9bd10d2ec7cfbc4",
+    "jarFileModificationDate": "2019-09-10T16:04:10.021+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\commons\\commons-collections4\\4.3\\commons-collections4-4.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "54f8aac48a5821e2916155cd4dfbd02b9e6705c9",
+    "jarFileModificationDate": "2019-08-31T15:08:25.146+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "checker-compat-qual-2.0.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fc89b03860d11d6213d0154a62bcd1c2f69b9efa",
+    "jarFileModificationDate": "2019-09-09T19:37:26.011+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\checkerframework\\checker-compat-qual\\2.0.0\\checker-compat-qual-2.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-4.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "66ea82c8e7cd87e9ae8bceca45daf01328c8d623",
+    "jarFileModificationDate": "2019-09-10T16:04:12.034+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi\\4.1.0\\poi-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b3fb338000215b94059661a21d5841b7ce30122c",
+    "jarFileModificationDate": "2019-08-31T15:08:25.381+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.commons.codec",
+    "version": {
+      "major": 1,
+      "minor": 9,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9ce04e34240f674bc72680f8b843b1457383161a",
+    "jarFileModificationDate": "2019-09-09T19:41:00.074+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\commons-codec\\commons-codec\\1.9\\commons-codec-1.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "net.bytebuddy.byte-buddy",
+    "version": {
+      "major": 1,
+      "minor": 8,
+      "micro": 15,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cb36fe3c70ead5fcd016856a7efff908402d86b8",
+    "jarFileModificationDate": "2019-09-09T19:37:29.028+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\net\\bytebuddy\\byte-buddy\\1.8.15\\byte-buddy-1.8.15.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mongodb-driver-3.3.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "398df8cc99f36c81344f37401b4284d39f84f6a5",
+    "jarFileModificationDate": "2019-09-09T19:41:00.073+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\mongodb\\mongodb-driver\\3.3.0\\mongodb-driver-3.3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.logging",
+    "version": {
+      "major": 1,
+      "minor": 2,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4bfc12adfe4842bf07b657f0369c4cb522955686",
+    "jarFileModificationDate": "2019-09-09T19:41:00.014+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\commons-logging\\commons-logging\\1.2\\commons-logging-1.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.testng",
+    "version": {
+      "major": 7,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": "beta7"
+    },
+    "jarFileFingerprint": "f4d4cb6726b82977c47157dc51c5a08cb418cfea",
+    "jarFileModificationDate": "2019-09-09T20:11:21.060+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\testng\\testng\\7.0.0-beta7\\testng-7.0.0-beta7.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.commons-compress",
+    "version": {
+      "major": 1,
+      "minor": 18,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1191f9f2bc0c47a8cce69193feb1ff0a8bcb37d5",
+    "jarFileModificationDate": "2019-09-10T16:04:10.023+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\commons\\commons-compress\\1.18\\commons-compress-1.18.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2f3ac13de484bd3bffdf44d642ba39ce43f01cd6",
+    "jarFileModificationDate": "2019-08-31T15:08:25.992+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "selenium-edge-driver-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fc09c66f2d0b33b0816d770761ad1d599ef0df29",
+    "jarFileModificationDate": "2019-09-24T19:09:20.001+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-edge-driver\\3.141.59\\selenium-edge-driver-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.yaml.snakeyaml",
+    "version": {
+      "major": 1,
+      "minor": 19,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2d998d3d674b172a588e54ab619854d073f555b5",
+    "jarFileModificationDate": "2019-09-24T19:09:21.010+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\yaml\\snakeyaml\\1.19\\snakeyaml-1.19.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c423fb190b0b7dbc03d6210c4310aa84e4aa1399",
+    "jarFileModificationDate": "2019-08-31T15:08:18.284+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.mongodb.driver-core",
+    "version": {
+      "major": 3,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9af003a316f17323ade866ba5a484a03de6ff025",
+    "jarFileModificationDate": "2019-09-09T19:41:01.003+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\mongodb\\mongodb-driver-core\\3.3.0\\mongodb-driver-core-3.3.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-java-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e8e20b741299cb8ffedbd2925a3ab69d08b41063",
+    "jarFileModificationDate": "2019-09-24T19:09:20.001+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-java\\3.141.59\\selenium-java-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0e8f1fdf297d2504356a4a8f8c8d04c63d88c716",
+    "jarFileModificationDate": "2019-08-31T15:08:18.362+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4f6f4e88485698df13039c00fd1384dce63bc61c",
+    "jarFileModificationDate": "2019-08-31T15:08:18.190+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpcore",
+    "version": {
+      "major": 4,
+      "minor": 4,
+      "micro": 4,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b31526a230871fbe285fbcbe2813f9c0839ae9b0",
+    "jarFileModificationDate": "2019-09-09T19:41:00.073+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\httpcomponents\\httpcore\\4.4.4\\httpcore-4.4.4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.squareup.okhttp3.okhttp",
+    "version": {
+      "major": 3,
+      "minor": 11,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "75966e05a49046ca2ae734e5626f28837a8d1e82",
+    "jarFileModificationDate": "2019-09-09T19:37:27.028+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\squareup\\okhttp3\\okhttp\\3.11.0\\okhttp-3.11.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jetty.xml",
+    "version": {
+      "major": 9,
+      "minor": 4,
+      "micro": 12,
+      "qualifier": "v20180830"
+    },
+    "jarFileFingerprint": "e42f240e395e4ea083f797c284e654c28e25166f",
+    "jarFileModificationDate": "2019-09-24T19:09:21.999+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\jetty-repacked\\9.4.12.v20180830\\jetty-repacked-9.4.12.v20180830.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "xmlbeans-3.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6dac1f897dfb3e3f17fc79b18a3353b2e51c464e",
+    "jarFileModificationDate": "2019-09-10T16:04:16.064+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\xmlbeans\\xmlbeans\\3.1.0\\xmlbeans-3.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6452df62bdd2aa95350f178b87d663e247d53676",
+    "jarFileModificationDate": "2019-08-31T15:08:18.268+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunmscapi.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a3b9dc47d13184c0dc8e46e39b8c254a39a251af",
+    "jarFileModificationDate": "2019-08-31T15:08:18.440+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-excelant-4.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d21424eafcff95be69731c8e36f42ff165d92eee",
+    "jarFileModificationDate": "2019-09-10T16:04:09.033+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi-excelant\\4.1.0\\poi-excelant-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jcommander",
+    "version": {
+      "major": 1,
+      "minor": 72,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6375e521c1e11d6563d4f25a07ce124ccf8cd171",
+    "jarFileModificationDate": "2019-09-09T19:37:27.028+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\beust\\jcommander\\1.72\\jcommander-1.72.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.squareup.okio.okio",
+    "version": {
+      "major": 1,
+      "minor": 14,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "102d7be47241d781ef95f1581d414b0943053130",
+    "jarFileModificationDate": "2019-09-09T19:37:27+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\squareup\\okio\\okio\\1.14.0\\okio-1.14.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-firefox-driver-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a99f2fe2a42747ed9809d4f62f51a9e1b336dde8",
+    "jarFileModificationDate": "2019-09-24T19:09:20.983+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-firefox-driver\\3.141.59\\selenium-firefox-driver-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.testng",
+    "version": {
+      "major": 7,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "14b73f64988eda81a42b4584e9647d48633ef857",
+    "jarFileModificationDate": "2019-09-09T19:37:28.023+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\testng\\testng\\7.0.0\\testng-7.0.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.github.virtuald.curvesapi",
+    "version": {
+      "major": 1,
+      "minor": 6,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "159dd2e8956459a4eb0a9a6ecda9004d8d289708",
+    "jarFileModificationDate": "2019-09-10T16:04:09.033+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\github\\virtuald\\curvesapi\\1.06\\curvesapi-1.06.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.math3",
+    "version": {
+      "major": 3,
+      "minor": 6,
+      "micro": 1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e4ba98f1d4b3c80ec46392f25e094a6a2e58fcbf",
+    "jarFileModificationDate": "2019-09-10T16:04:12.032+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\commons\\commons-math3\\3.6.1\\commons-math3-3.6.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bb80059de67d2c265c4cc1c7a713ae85f2f56c71",
+    "jarFileModificationDate": "2019-08-31T15:08:18.190+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "64a8875cc7a993e690343d72e99aaa71bd368999",
+    "jarFileModificationDate": "2019-08-31T15:08:18.190+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "selenium-chrome-driver-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "67137314736c6a2f39a8aa59a562e9616ae5f77e",
+    "jarFileModificationDate": "2019-09-09T19:37:26.030+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-chrome-driver\\3.141.59\\selenium-chrome-driver-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "hamcrest-core-1.3",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42a25dc3219429f0e5d060061f71acb49bf010a0",
+    "jarFileModificationDate": "2019-09-09T19:31:10+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\hamcrest\\hamcrest-core\\1.3\\hamcrest-core-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "junit-4.12",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2973d150c0dc1fefe998f834810d68f278ea58ec",
+    "jarFileModificationDate": "2019-09-10T14:33:35.058+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-api-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e006ffd3aa7841e6e9125d9e6691b3a6b7592b05",
+    "jarFileModificationDate": "2019-09-09T19:37:27+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-api\\3.141.59\\selenium-api-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "testng",
+    "version": {
+      "major": 6,
+      "minor": 14,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d24515dc253e77e54b73df97e1fb2eb7faf34fdd",
+    "jarFileModificationDate": "2019-09-09T20:10:26.884+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\testng\\testng\\6.14.3\\testng-6.14.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.aventstack.extentreports",
+    "version": {
+      "major": 4,
+      "minor": 0,
+      "micro": 9,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "272a055be574edaa8e609476077f56d3aa65b58a",
+    "jarFileModificationDate": "2019-09-09T19:41:02.075+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\aventstack\\extentreports\\4.0.9\\extentreports-4.0.9.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.j2objc.j2objc-annotations",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ed28ded51a8b1c6b112568def5f4b455e6809019",
+    "jarFileModificationDate": "2019-09-09T19:37:26.005+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\google\\j2objc\\j2objc-annotations\\1.1\\j2objc-annotations-1.1.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.commons-codec",
+    "version": {
+      "major": 1,
+      "minor": 12,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "47a28ef1ed31eb182b44e15d49300dee5fadcf6a",
+    "jarFileModificationDate": "2019-09-10T16:04:10.021+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\commons-codec\\commons-codec\\1.12\\commons-codec-1.12.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-support-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8735de5049acf0e761defc65ee5837d6541abaf5",
+    "jarFileModificationDate": "2019-09-24T19:09:21.031+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-support\\3.141.59\\selenium-support-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-remote-driver-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c79ca890c312ff9916bd95df4f0c5182ec722d8",
+    "jarFileModificationDate": "2019-09-09T19:37:27.026+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-remote-driver\\3.141.59\\selenium-remote-driver-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.commons.exec",
+    "version": {
+      "major": 1,
+      "minor": 3,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8dfb9facd0830a27b1b5f29f84593f0aeee7773b",
+    "jarFileModificationDate": "2019-09-09T19:37:27.026+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\commons\\commons-exec\\1.3\\commons-exec-1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.codehaus.mojo.animal-sniffer-annotations",
+    "version": {
+      "major": 1,
+      "minor": 14,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "775b7e22fb10026eed3f86e8dc556dfafe35f2d5",
+    "jarFileModificationDate": "2019-09-09T19:37:26.015+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\codehaus\\mojo\\animal-sniffer-annotations\\1.14\\animal-sniffer-annotations-1.14.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "bsh-2.0b6",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fb418f9b33a0b951e9a2978b4b6ee93b2707e72f",
+    "jarFileModificationDate": "2019-09-09T20:10:25.751+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache-extras\\beanshell\\bsh\\2.0b6\\bsh-2.0b6.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "91d2f8c231c0565fcee28d0115701f04bdd42178",
+    "jarFileModificationDate": "2019-08-31T15:08:18.362+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "poi-ooxml-schemas-4.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "06a2a0dfa19db33f4fba5b0a0261bb517a86cb56",
+    "jarFileModificationDate": "2019-09-10T16:04:22.075+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi-ooxml-schemas\\4.1.0\\poi-ooxml-schemas-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.httpcomponents.httpclient",
+    "version": {
+      "major": 4,
+      "minor": 5,
+      "micro": 2,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "733db77aa8d9b2d68015189df76ab06304406e50",
+    "jarFileModificationDate": "2019-09-09T19:41:00.001+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\httpcomponents\\httpclient\\4.5.2\\httpclient-4.5.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-scratchpad-4.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a000ba60895a7aede6ebd5bb7f7d8d1c8f9ac735",
+    "jarFileModificationDate": "2019-09-10T16:04:12.014+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi-scratchpad\\4.1.0\\poi-scratchpad-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf1c817820341a246f7130fe046e8310b03d04f6",
+    "jarFileModificationDate": "2019-08-31T15:08:18.268+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "selenium-ie-driver-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "677b9b414a3a9bb2aeea89042a7b326edeb13a82",
+    "jarFileModificationDate": "2019-09-24T19:09:19.999+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-ie-driver\\3.141.59\\selenium-ie-driver-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "selenium-safari-driver-3.141.59",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a32b5b88f46ea4b0356079f0d2e2217543923046",
+    "jarFileModificationDate": "2019-09-24T19:09:20+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-safari-driver\\3.141.59\\selenium-safari-driver-3.141.59.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "ant-launcher-1.8.2",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6a5466384e7e2086b13d3d281dadaa059b0d0923",
+    "jarFileModificationDate": "2019-09-10T16:04:08.020+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\ant\\ant-launcher\\1.8.2\\ant-launcher-1.8.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.errorprone.error_prone_annotations",
+    "version": {
+      "major": 2,
+      "minor": 1,
+      "micro": 3,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "39b109f2cd352b2d71b52a3b5a1a9850e1dc304b",
+    "jarFileModificationDate": "2019-09-09T19:37:26.011+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\google\\errorprone\\error_prone_annotations\\2.1.3\\error_prone_annotations-2.1.3.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "poi-ooxml-4.1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42d7913de1a6360058e8d14bb7769a33633a639b",
+    "jarFileModificationDate": "2019-09-10T16:04:11.024+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi-ooxml\\4.1.0\\poi-ooxml-4.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.freemarker.freemarker",
+    "version": {
+      "major": 2,
+      "minor": 3,
+      "micro": 23,
+      "qualifier": "stable"
+    },
+    "jarFileFingerprint": "cd143cd8c02a9f838e3cb75a6dfe133750437f6d",
+    "jarFileModificationDate": "2019-09-09T19:41:01.013+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\freemarker\\freemarker\\2.3.23\\freemarker-2.3.23.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b353acb4ec416b56875304d4f3b06c500bdd07a4",
+    "jarFileModificationDate": "2019-08-31T15:08:18.268+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jcip-annotations-1.0",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "afba4942caaeaf46aab0b976afd57cc7c181467e",
+    "jarFileModificationDate": "2019-09-24T19:09:20.001+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\net\\jcip\\jcip-annotations\\1.0\\jcip-annotations-1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7099075c832b62799f0f06db56ea15dd558f1406",
+    "jarFileModificationDate": "2019-08-31T15:08:18.190+05:30",
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\ext\\access-bridge-64.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "javax.servlet-api",
+    "version": {
+      "major": 3,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3cd63d075497751784b2fa84be59432f4905bf7c",
+    "jarFileModificationDate": "2019-09-24T19:09:20.025+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\javax\\servlet\\javax.servlet-api\\3.1.0\\javax.servlet-api-3.1.0.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "com.google.gson",
+    "version": {
+      "major": 2,
+      "minor": 8,
+      "micro": 5,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f645ed69d595b24d4cf8b3fbb64cc505bede8829",
+    "jarFileModificationDate": "2019-09-09T19:41:00.126+05:30",
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\com\\google\\code\\gson\\gson\\2.8.5\\gson-2.8.5.jar",
+    "javaRuntime": false
+  }
+]

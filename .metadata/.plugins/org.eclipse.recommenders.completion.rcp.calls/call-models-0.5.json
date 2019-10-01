@@ -1,0 +1,32 @@
+{
+  "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\rt.jar": {
+    "location": "C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\rt.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Program Files\\Java\\jdk1.8.0_171\\jre\\lib\\rt.jar\u0027. Neither fingerprint \u002772c1403ef99e74a9aead254806adbbca68e731a3\u0027 nor symbolic name \u0027jre\u0027 are known."
+  },
+  "C:\\Users\\atishk2\\workspace\\AutomationTestFramework\\src\\main\\java": {
+    "location": "C:\\Users\\atishk2\\workspace\\AutomationTestFramework\\src\\main\\java",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027C:\\Users\\atishk2\\workspace\\AutomationTestFramework\\src\\main\\java\u0027. Skipped."
+  },
+  "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi-ooxml\\4.1.0\\poi-ooxml-4.1.0.jar": {
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi-ooxml\\4.1.0\\poi-ooxml-4.1.0.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\atishk2\\.m2\\repository\\org\\apache\\poi\\poi-ooxml\\4.1.0\\poi-ooxml-4.1.0.jar\u0027. Neither fingerprint \u002742d7913de1a6360058e8d14bb7769a33633a639b\u0027 nor symbolic name \u0027poi-ooxml-4.1.0\u0027 are known."
+  },
+  "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-api\\3.141.59\\selenium-api-3.141.59.jar": {
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-api\\3.141.59\\selenium-api-3.141.59.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-api\\3.141.59\\selenium-api-3.141.59.jar\u0027. Neither fingerprint \u0027e006ffd3aa7841e6e9125d9e6691b3a6b7592b05\u0027 nor symbolic name \u0027selenium-api-3.141.59\u0027 are known."
+  },
+  "C:\\Users\\atishk2\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar": {
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\atishk2\\.m2\\repository\\junit\\junit\\4.12\\junit-4.12.jar\u0027. Neither fingerprint \u00272973d150c0dc1fefe998f834810d68f278ea58ec\u0027 nor symbolic name \u0027junit-4.12\u0027 are known."
+  },
+  "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-support\\3.141.59\\selenium-support-3.141.59.jar": {
+    "location": "C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-support\\3.141.59\\selenium-support-3.141.59.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027C:\\Users\\atishk2\\.m2\\repository\\org\\seleniumhq\\selenium\\selenium-support\\3.141.59\\selenium-support-3.141.59.jar\u0027. Neither fingerprint \u00278735de5049acf0e761defc65ee5837d6541abaf5\u0027 nor symbolic name \u0027selenium-support-3.141.59\u0027 are known."
+  }
+}
